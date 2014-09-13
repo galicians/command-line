@@ -1,0 +1,3 @@
+The command grep looks for words inside files. 
+sintax is: grep destination cp
+##this command will provide all the sentences within the cp file where the word destination is present

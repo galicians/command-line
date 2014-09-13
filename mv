@@ -1,1 +1,3 @@
-The 'mv' command will move a file from its current directory to another location. The sintax will be mv filename finalDestination, e.g. mv new.rb repo
+The 'mv' command will move a file from its current directory to another location. 
+The sintax will be mv filename finalDestination, e.g. mv new.rb repo
+Basically it moves files around within your system directory.

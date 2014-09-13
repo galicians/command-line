@@ -1,0 +1,1 @@
+The command cp copies a file from the original location to a final destination.

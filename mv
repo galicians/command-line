@@ -1,0 +1,1 @@
+The 'mv' command will move a file from its current directory to another location. The sintax will be mv filename finalDestination, e.g. mv new.rb repo
